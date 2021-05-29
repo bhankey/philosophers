@@ -1,0 +1,7 @@
+cmake-build-debug
+.*
+*.o
+vgcore*
+philo_one/philo_one
+philo_two_lol/philo_two
+philo_three/philo_three
